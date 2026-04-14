@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=true&pause=100000&lines=Hi,+I'm+V-IOLE-T.+AI+Full-Stack+Developer." alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=true&pause=100000&lines=Hi,+I'm+V-IOLE-T(OO).+AI+Full-Stack+Developer." alt="Hi"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=C98A4A&center=true&vCenter=true&width=780&pause=100000&lines=Third-year+Math+Technophile+undergraduate+%7C+Recreational+coder+%7C+Open-source+enthusiast." alt="Current Role"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave"/>
@@ -20,10 +20,10 @@
 
 <p>
   <a href="https://418122.xyz/en">
-    <img src="https://img.shields.io/badge/BLOG-lvywiki-C58940?style=flat-square&logo=readthedocs&logoColor=white" alt="personal site"/>
+    <img src="https://img.shields.io/badge/BLOG-OOwiki-C58940?style=flat-square&logo=readthedocs&logoColor=white" alt="personal site"/>
   </a>
   <a href="z411622h@163.com">
-    <img src="https://img.shields.io/badge/Gmail-lvyovo01%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
+    <img src="https://img.shields.io/badge/Gmail-OO01%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </p>
 
