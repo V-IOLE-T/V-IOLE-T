@@ -25,7 +25,7 @@
   <a href="z411622h@163.com">
     <img src="https://img.shields.io/badge/Gmail-lunatic.halle%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
-    <img src="https://img.shields.io/badge/WeChat-your_wechat_id-18039532972?style=flat-square&logo=wechat&logoColor=white" alt="wechat"/>
+    <img src="https://img.shields.io/badge/WeChat-18039532972-07C160?style=flat-square&logo=wechat&logoColor=white" alt="wechat"/>
 </p>
 
 > "The mission of learning is to gain an understanding of various designs."
