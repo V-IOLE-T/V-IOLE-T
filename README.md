@@ -20,7 +20,7 @@
 
 <p>
   <a href="https://418122.xyz/en">
-    <img src="https://img.shields.io/badge/BLOG-OOwiki-C58940?style=flat-square&logo=readthedocs&logoColor=white" alt="personal site"/>
+    <img src="https://img.shields.io/badge/BLOG-418122.xyz-C58940?style=flat-square&logo=readthedocs&logoColor=white" alt="personal site"/>
   </a>
   <a href="z411622h@163.com">
     <img src="https://img.shields.io/badge/Gmail-lunatic.halle%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
