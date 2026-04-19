@@ -14,6 +14,8 @@
 - I’m grateful to live in an open-source world. 
 - I’m happy to contribute for free to fun projects & ideas, feel free to email me.
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=V-IOLE-T)](https://git.io/streak-stats)
+
 ### Links
 
 <p>
