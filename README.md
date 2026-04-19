@@ -15,7 +15,7 @@
 - I’m happy to contribute for free to fun projects & ideas, feel free to email me.
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=V-IOLE-T&theme=tokyonight-duo&hide_border=false%C2%A0%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&short_numbers=false%C2%A0%C2%A0%E9%94%99%E8%AF%AF%E7%9A%84&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=V-IOLE-T&theme=tokyonight-duo&hide_border=false&short_numbers=false&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 </p>
 
 ### Links
