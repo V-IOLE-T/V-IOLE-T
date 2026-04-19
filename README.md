@@ -11,14 +11,14 @@
   </p>
 </div>
 
-- I’m grateful to live in an open-source world. 
-- I’m happy to contribute for free to fun projects & ideas, feel free to email me.
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=V-IOLE-T&theme=tokyonight-duo&hide_border=false&short_numbers=false&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
   </a>
 </p>
+
+- I’m grateful to live in an open-source world. 
+- I’m happy to contribute for free to fun projects & ideas, feel free to email me.
 
 ### Links
 
